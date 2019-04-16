@@ -18,7 +18,7 @@ email: stone.mathers@duke.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This website is meant to showcase my blog posts and works
   from my Interactive Graphics course.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /iss294-portfolio # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  stonemathers
