@@ -5,7 +5,7 @@ date:   2019-02-19
 categories: blogs
 ---
 
-![Fractals Piece 1](/images/fractals1.png "Fractals Piece 1")
+<img src="{{ "/images/fractals1.png" | prepend: site.baseurl }}{{ img }}" alt="Fractals Piece 1">
 
 {% for post in site.posts %}
     {% if post.title == "Blog Post - New Media Artists II" %}
@@ -13,8 +13,8 @@ The idea for this piece was inspired by LIA's Tentasho, which I discuss in <a hr
     {% endif %}
 {% endfor %}
 
-![Fractals Piece 2](/images/fractals2.png "Fractals Piece 2")
+<img src="{{ "/images/fractals2.png" | prepend: site.baseurl }}{{ img }}" alt="Fractals Piece 2">
 
 To interact with this piece, click and drag in empty space to begin drawing. On release, a fractal is drawn. This fractal can then be used as a "brush", either dragging it around the screen, or rotating it by holding the 'a' key or space bar while dragging. The 'a' key will slowly rotate the fractal, while the space bar will cause a much more sporadic rotation. The 'r' key can be pressed to reset the canvas.
 
-Try it out [here](https://stonemathers.github.io/iss294-algorithms/)!
+Try it out [here](https://stonemathers.github.io/iss294-algorithms/) or give the [source code](https://github.com/stonemathers/iss294-algorithms) a look!

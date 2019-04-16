@@ -9,7 +9,7 @@ categories: blogs
 
 ### Surface
 
-![Surface](/images/surface.jpg "Surface")
+<img src="{{ "/images/surface.jpg" | prepend: site.baseurl }}{{ img }}" alt="Surface">
 
 Surface was created by cybernetics artist [Geoffrey Drake-Brockman](https://www.drake-brockman.com.au/index.html), who specializes in large-scale public installations. This piece, which is on permanent display in Perth Children's Hospital, consists of over 2,000 ceiling-mounted LED tubes. This "pond" of lights mimics the motion of water through the changing of color and "flowing" of light along the length of each LED tube. When one of four sensors detects a pedestrain moving below, a virtual stone is throne into the pond, causing ripples to disrupt the prievously calm scene.
 
@@ -19,7 +19,7 @@ I was drawn to this piece due to its simplicity of concept, yet complexity of ou
 
 ### Digital Wheel Art
 
-![Digital Wheel Art - User Test](/images/dwa_usertest.jpg "Digital Wheel Art - User Test")
+<img src="{{ "/images/dwa_usertest.jpg" | prepend: site.baseurl }}{{ img }}" alt="Digital Wheel Art - User Test">
 
 After realizing that children diagnosed with cerebral palsy were restricted from creative expression, Younghyun Chung designed and built Digital Wheel Art. Using an infrared sensor and a Nintendo Wiimote, Chung's installation detects a wheelchair's movement around a room, projecting it on the screen as brush strokes. The user can also tilt their head to change the brush color, allowing for further means of artistic expression. By repurposing cheap, widespread technology, Chung has unlocked a new world of communication through art for people with a wide range of physical disabilities.
 
