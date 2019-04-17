@@ -2,7 +2,7 @@
 layout: post
 title:  "Algorithmic Fractals"
 date:   2019-02-19
-categories: blogs
+categories: pieces
 ---
 
 <img src="{{ "/images/fractals1.png" | prepend: site.baseurl }}{{ img }}" alt="Fractals Piece 1">

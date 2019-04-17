@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Smoky Mountain Relay Visualizer"
-date:   2019-04-08
-categories: blogs
+date:   2019-03-26
+categories: pieces
 ---
 
 At the end of April, I will be running the Smoky Mountain Relay with seven other members of Duke Club Running. This 140-mile relay race is comprised of 24 legs that wind throughout Pisgah National Forest. While there are lists of the leg distances, elevation changes, and relative difficulties, I found it hard to wrap my head around the progression of the race and how the legs truly compared to one another. So, I sought to create a playful, yet useful visualization of the race that allows the user to virtually "run" the race. Hopefully this would help the user better understand the difference in difficulty between legs and overall portions of the race, thus allowing for a more informed division of legs between team members. I also hoped to convey just how much of the race takes place during the night.

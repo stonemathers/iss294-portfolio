@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2019-01-27
-categories: blogs
+categories: pieces
 ---
 
 This is my first sketch for ISS294 - Interactive Graphics. I first set out to play with text, animation, and randomization. I landed on this interactive and visually sporadic sketch. The user is meant to interact with the sketch by moving their mouse around the canvas and typing. Whatever letters, numbers, or symbols they type will then spring from the cursor, moving pseudo-randomly as they decay in size, randomly changing colors until they fade to nothing.
