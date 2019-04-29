@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Stone will be graduating this spring with a major in Computer Science. Outside of the classroom, he is a section leader and snare player in the Duke Drumline, a drum set player in the Pep Band, and the president of Duke Club Running. He is also the project manager of the [Book of Fortresses](https://www.dukewired.org/projects/the-book-of-fortresses/) project in the Wired Lab, a space for pursuing research in digital art history and visual culture. Following graduation, I will be working in New York City as a software engineer at Yext.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<img src="{{ "/images/stone.JPG" | prepend: site.baseurl }}{{ img }}" alt="Stone">
